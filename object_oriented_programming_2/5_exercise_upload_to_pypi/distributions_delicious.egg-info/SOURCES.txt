@@ -1,0 +1,12 @@
+README.md
+setup.cfg
+setup.py
+distributions_delicious/Binomialdistribution.py
+distributions_delicious/Gaussiandistribution.py
+distributions_delicious/Generaldistribution.py
+distributions_delicious/__init__.py
+distributions_delicious.egg-info/PKG-INFO
+distributions_delicious.egg-info/SOURCES.txt
+distributions_delicious.egg-info/dependency_links.txt
+distributions_delicious.egg-info/not-zip-safe
+distributions_delicious.egg-info/top_level.txt
