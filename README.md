@@ -1,1 +1,1 @@
-# undacity_data_scientist
+# udacity_data_scientist
